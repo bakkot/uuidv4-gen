@@ -1,0 +1,26 @@
+{
+  "name": "uuidv4-gen",
+  "version": "0.0.1",
+  "description": "Generate UUIDv4 strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakkot/uuidv4-gen.git"
+  },
+  "keywords": [
+    "uuid",
+    "uuidv4"
+  ],
+  "author": "Kevin Gibbons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bakkot/uuidv4-gen/issues"
+  },
+  "homepage": "https://github.com/bakkot/uuidv4-gen#readme"
+}
